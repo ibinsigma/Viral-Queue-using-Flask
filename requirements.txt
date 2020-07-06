@@ -1,0 +1,6 @@
+Flask==1.0.2
+Werkzeug==0.14.1
+Flask_SQLAlchemy==2.3.2
+SQLAlchemy==1.2.15
+flask_admin==1.5.6
+flask_login==0.5.0
